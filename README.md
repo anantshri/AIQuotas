@@ -3,13 +3,13 @@
 
 <center>
 
-![AIQuota Screenshot](Resources/logo.png)
+![AIQuota Screenshot](Sources/Resources/logo.png)
 
 </center>
 
 [AIQuota](https://github.com/anantshri/AIQuotas) is a native macOS menu bar application designed to help developers track their AI service usage and quotas in real-time. It provides a centralized view of your remaining limits across various AI providers, ensuring you never run out of credits unexpectedly.
 
-![AIQuota Screenshot](Resources/aiquotas.png)
+![AIQuota Screenshot](Sources/Resources/aiquotas.png)
 
 ## Features
 

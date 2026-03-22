@@ -1,0 +1,9 @@
+.DS_Store
+build/
+dist/
+DerivedData/
+*.swp
+*.lock
+.build/
+*.o
+*.app

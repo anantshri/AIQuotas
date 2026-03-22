@@ -300,10 +300,6 @@ class ProviderAPIs {
         return try await LocalAntigravityService.shared.fetchLocalUsage()
     }
     
-    func fetchAntigravityUsageLocal() async throws -> QuotaResult {
-        return try await LocalAntigravityService.shared.fetchLocalUsage()
-    }
-    
     // MARK: - Helpers
     
     private func parseDouble(_ value: Any?) -> Double? {

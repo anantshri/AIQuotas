@@ -247,4 +247,3 @@ class QuotaManager: ObservableObject {
         }
     }
 }
-}
